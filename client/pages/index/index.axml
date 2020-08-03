@@ -1,0 +1,10 @@
+<view>
+  this is a blank page
+  <view>
+   是 {{nickName}}
+  </view>
+  <button onTap="getQuan">授权</button>
+  <view onTap="gominiApp">
+    app
+  </view>
+</view>
